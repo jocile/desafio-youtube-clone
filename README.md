@@ -1,6 +1,8 @@
 # Trilha CSS - Dio.me - Clonando a Página do Youtube com CSS
 
-<https://github.com/jocile/desafio-youtube-clone>
+Link da página: <https://jocile.github.io/desafio-youtube-clone/>
+
+Link do repositório: <https://github.com/jocile/desafio-youtube-clone>
 
 Projeto de HMTL e CSS de Clone da página do Youtube utilizando Flexbox.
 
